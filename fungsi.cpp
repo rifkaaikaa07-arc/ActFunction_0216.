@@ -15,3 +15,11 @@ void input (){
 int Luaspersegi(){
     return p * l;
 }
+
+void output(){
+    cout << "Hasilnya : " << luaspersegi();
+}
+int main(){ //mulai
+    input();
+    output();
+}//selesai
