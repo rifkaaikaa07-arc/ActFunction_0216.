@@ -17,7 +17,7 @@ int Luaspersegi(){
 }
 
 void output(){
-    cout << "Hasilnya : " << luaspersegi();
+    cout << "Hasilnya : " << Luaspersegi();
 }
 int main(){ //mulai
     input();
